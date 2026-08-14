@@ -1,0 +1,2 @@
+ticket_id,category,priority,sentiment,issue,summary,recommended_action
+T010,Subscription,Medium,Neutral,Customer wants to cancel their subscription immediately.,The customer has requested immediate cancellation of their active subscription.,Process the cancellation request in the billing system and send a confirmation email to the customer.

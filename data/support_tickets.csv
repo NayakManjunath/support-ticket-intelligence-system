@@ -1,0 +1,51 @@
+ticket_id,ticket_text,known_category,known_priority,known_sentiment
+T001,I cannot reset my password. The reset link says it has expired.,Password Reset,High,Frustrated
+T002,My card was charged twice for the same order.,Payment,High,Angry
+T003,How can I change the email address associated with my account?,Account,Low,Neutral
+T004,The app crashes every time I try to upload a photo.,Technical Issue,High,Frustrated
+T005,My order was supposed to arrive yesterday but I still haven't received it.,Delivery,High,Frustrated
+T006,Can I get a refund for an item I purchased last week?,Refund,Medium,Neutral
+T007,I forgot my username and cannot log in.,Login,Medium,Frustrated
+T008,The payment page keeps showing an error when I try to pay.,Payment,High,Frustrated
+T009,Where can I download my invoice?,Billing,Low,Neutral
+T010,I want to cancel my subscription immediately.,Subscription,Medium,Neutral
+T011,My account has been locked after several login attempts.,Login,High,Frustrated
+T012,The product I received is damaged. What should I do?,Product Issue,High,Disappointed
+T013,Can you tell me when my order will arrive?,Delivery,Low,Neutral
+T014,I was charged for a subscription I already cancelled.,Billing,High,Angry
+T015,The verification email never arrived.,Account Verification,Medium,Frustrated
+T016,I need to update my phone number.,Account,Low,Neutral
+T017,The website is extremely slow today.,Technical Issue,Medium,Frustrated
+T018,I received the wrong product in my order.,Product Issue,High,Disappointed
+T019,How do I upgrade to the premium plan?,Subscription,Low,Neutral
+T020,My refund was approved but the money has not arrived yet.,Refund,Medium,Frustrated
+T021,I cannot access my account even though my password is correct.,Login,High,Frustrated
+T022,My credit card information was rejected during checkout.,Payment,Medium,Frustrated
+T023,Please send me a copy of my receipt.,Billing,Low,Neutral
+T024,I placed an order by mistake and want to cancel it.,Order Cancellation,Medium,Neutral
+T025,"The tracking number says delivered, but I never received the package.",Delivery,High,Angry
+T026,The mobile app closes whenever I open the settings page.,Technical Issue,Medium,Frustrated
+T027,I was billed more than the price shown at checkout.,Billing,High,Angry
+T028,Can I change my subscription from monthly to yearly?,Subscription,Low,Neutral
+T029,I need help verifying my identity.,Account Verification,Medium,Neutral
+T030,The reset password email takes me to a broken page.,Password Reset,High,Frustrated
+T031,My order has been stuck in processing for five days.,Order Status,High,Frustrated
+T032,Can I return this product if I no longer want it?,Return,Low,Neutral
+T033,I accidentally created two accounts. Can they be merged?,Account,Medium,Neutral
+T034,The checkout button does nothing when I click it.,Technical Issue,High,Frustrated
+T035,I was charged twice and need one of the charges reversed.,Payment,High,Angry
+T036,My package arrived but one item is missing.,Product Issue,High,Disappointed
+T037,How long does a refund normally take?,Refund,Low,Neutral
+T038,I cannot remember my password and the recovery email is not working.,Password Reset,High,Frustrated
+T039,I want to downgrade my subscription.,Subscription,Low,Neutral
+T040,My invoice contains the wrong company name.,Billing,Medium,Frustrated
+T041,The verification code says it is invalid.,Account Verification,Medium,Frustrated
+T042,Can I track my shipment?,Delivery,Low,Neutral
+T043,My order arrived late and I want compensation.,Delivery,Medium,Disappointed
+T044,The app shows a blank screen after I log in.,Technical Issue,High,Frustrated
+T045,I don't recognize a transaction on my account.,Payment,High,Concerned
+T046,Please close my account permanently.,Account Closure,Medium,Neutral
+T047,I need an invoice for last month's payment.,Billing,Low,Neutral
+T048,The product stopped working after two days.,Product Issue,High,Disappointed
+T049,I accidentally subscribed and would like a refund.,Subscription,Medium,Frustrated
+T050,I have been waiting a week for my refund.,Refund,High,Angry

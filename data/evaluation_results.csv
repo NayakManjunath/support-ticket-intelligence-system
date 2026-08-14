@@ -1,0 +1,2 @@
+category_accuracy,priority_accuracy,sentiment_accuracy,overall_field_accuracy,tickets_evaluated
+100.0,50.0,70.0,73.33,10

@@ -1,0 +1,8 @@
+ticket_id,category_expected,category_predicted,category_correct,priority_expected,priority_predicted,priority_correct,sentiment_expected,sentiment_predicted,sentiment_correct
+T001,Password Reset,Password Reset,True,High,Medium,False,Frustrated,Neutral,False
+T002,Payment Issue,Payment Issue,True,High,High,True,Angry,Negative,False
+T004,Technical Issue,Technical Issue,True,High,Medium,False,Frustrated,Frustrated,True
+T005,Delivery,Delivery,True,High,Medium,False,Frustrated,Frustrated,True
+T006,Refund,Refund,True,Medium,Low,False,Neutral,Neutral,True
+T007,Account Access,Account Access,True,Medium,Medium,True,Frustrated,Neutral,False
+T010,Subscription,Subscription,True,Medium,High,False,Neutral,Neutral,True
